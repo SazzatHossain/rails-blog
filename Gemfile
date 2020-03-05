@@ -26,7 +26,7 @@ gem 'material_icons'
 gem 'devise', '~> 4.2'
 gem 'autoprefixer-rails'
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'bootstrap', '~> 4.2.1'
+gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'rails_sortable'
